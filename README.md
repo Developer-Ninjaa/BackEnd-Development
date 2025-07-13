@@ -59,5 +59,5 @@ Contributions are welcome!
 Please fork the repository and submit a pull request.
 
 🙋‍♂️ Author
-Built with ❤️ by Your Developer-Ninjaa
+Built with ❤️ by Developer-Ninjaa
 For feedback or questions, open an issue or reach out via GitHub.

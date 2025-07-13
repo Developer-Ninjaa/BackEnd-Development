@@ -37,7 +37,7 @@ cd backend-nodejs-app
 npm install
 
 📁 Folder Structure
-csharp
+.JS
 Copy
 Edit
 ├── config/           # DB and app configuration
